@@ -19,8 +19,7 @@ public class HandlingSVElements {
 		
 		driver.findElement(By.xpath("//*[name()='svg' and @class=\"A_8a-icon\"]")).click();
 		
-		https://github.com/sanjaygit1/BasicSelenium_QCO-SOEJVD-E31.git 
-			https://github.com/sanjaygit1/BasicSeleniumProject.git
+		
 	}
 
 }
